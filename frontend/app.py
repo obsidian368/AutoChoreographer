@@ -450,7 +450,7 @@ with col2:
 # 创建信息卡片
 st.markdown("""
 <div class="stCard" style="animation: slideIn 0.8s ease-out;">
-    <h3>🚀 欢迎使用AutoChoreographer自动驾驶框架</h3>
+    <h3>🚀 欢迎使用AutoChoreographer自动驾驶决策系统</h3>
     <p>AutoChoreographer 是一个基于计算机视觉和深度学习的自动驾驶场景理解系统，集成了3D物体检测、场景理解和轨迹预测功能，并提供了基于千问大模型的视觉语言理解能力。</p>
     <p>请在侧边栏配置参数，然后点击"运行分析"按钮开始处理。</p>
     <div style="margin-top: 15px; padding: 10px; background-color: #E3F2FD; border-radius: 8px; border-left: 4px solid #2962FF;">
