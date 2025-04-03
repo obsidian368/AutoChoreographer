@@ -13,8 +13,6 @@ AutoChoreographer 是一个基于计算机视觉和深度学习的自动驾驶�
 
 - Python 3.8 或更高版本
 - CUDA 支持的 GPU（推荐 NVIDIA GPU 8GB+ 显存）
-- 至少 16GB 系统内存
-- 至少 20GB 可用磁盘空间
 
 ## 快速开始
 
