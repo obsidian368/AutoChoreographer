@@ -1512,7 +1512,7 @@ with footer_cols[1]:
     <div style='text-align: center;'>
         <h4 style='color: #616161; font-size: 1.1em; font-weight: 400;'>AutoChoreographer自动驾驶框架</h4>
         <p style='color: #9E9E9E; font-size: 0.9em;'>基于千问大模型和计算机视觉的端到端自动驾驶决策系统</p>
-        <p style='color: #9E9E9E; font-size: 0.8em;'>© 2024-2025 | <a href="https://github.com/taco-group/OpenEMMA" target="_blank" style='color: #1E88E5; text-decoration: none;'>GitHub</a> | <a href="https://dashscope.aliyun.com/" target="_blank" style='color: #1E88E5; text-decoration: none;'>千问API</a></p>
+        <p style='color: #9E9E9E; font-size: 0.8em;'>© 2024-2025 | <a href="https://github.com/obsidian368/AutoChoreographer" target="_blank" style='color: #1E88E5; text-decoration: none;'>GitHub</a> | <a href="https://dashscope.aliyun.com/" target="_blank" style='color: #1E88E5; text-decoration: none;'>千问API</a></p>
     </div>
     """, unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
